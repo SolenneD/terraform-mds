@@ -72,6 +72,7 @@ Récupérer le DNS public (IPv4) dans Services -> EC2 -> Instances
   }
 }
 ```
+`ursho`
 
 Enfin, ouvrir un nouveau terminal et se connecter en ssh 
 `ssh ubuntu@[DNS-PUBLIC]`
